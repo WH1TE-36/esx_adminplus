@@ -1,0 +1,4 @@
+Kurulumu Cok Basit Server.cfg den ensurelemniz yeterli !
+
+ensure esx_adminplus
+
